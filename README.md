@@ -1,4 +1,4 @@
-View web  https://gagaspanduw.github.io/order-summary-component-main/
+View my result https://gagaspanduw.github.io/order-summary-component-main/
 
 # Frontend Mentor - Order summary card
 
